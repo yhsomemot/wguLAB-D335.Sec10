@@ -108,6 +108,7 @@ displayHourlyRate(34.789123)
 displayHourlyRate(24.123456)
 
 # TASK 10 Complete the function to return the number of uppercase letters in the given string
+
 def countUpper(mystring):
     count = 0
     for i in mystring:
