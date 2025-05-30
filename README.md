@@ -289,6 +289,6 @@ print(countUpper('Welcome to WGU'))
 print(countUpper('Hello, Mary'))
 ```
 
-[answer](https://github.com/yhsomemot/wguLAB-D335.Sec10/blob/main/answer/10.10.py)
+[answers](https://github.com/yhsomemot/wguLAB-D335.Sec10/blob/main/answer/10.10.py)
 
 ---
